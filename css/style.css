@@ -1,0 +1,76 @@
+.body{
+    background-image: url('https://cdn.profile.ru/wp-content/uploads/2021/03/FK-Barselona-logotip-emblema.jpg');
+    background-size: contain;
+}
+
+.main{
+    width: 800px;
+    min-height: 700px;
+    float: left;
+}
+
+.header{
+    width: 757px;
+    min-height: 96px;
+    float: left;
+    background: yellow;
+    
+}
+
+.content{
+    width: 759px;
+    min-height: 610px;
+    /*background: green;*/
+    float: left;
+    margin-top: 10px;
+    
+}
+
+.m-nav{
+    width: 128px;
+    min-height: inherit;
+    background: blue;
+    float: left;
+    
+}
+
+.right-side{
+    width: 620px;
+    min-height: inherit;
+    /*background: red;*/
+    float: left;
+    margin-left: 10px;
+}
+
+.up{
+    width: 620px;
+    min-height: 500px;
+    /*background: purple;*/ 
+    float: left;
+}
+
+.footer{
+    width: 620px;
+    min-height: 100px;
+    background: burlywood;
+    float: left;
+    margin-top: 10px;
+    
+}
+
+.m-article{
+    width: 490px;
+    min-height: inherit;
+    background: aqua;
+    float: left;
+  
+}
+
+.m-ads{
+    width: 120px;
+    min-height: inherit;
+    background: greenyellow;
+    float: left; 
+    margin-left: 10px;
+    
+}
